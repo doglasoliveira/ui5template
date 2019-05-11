@@ -1,0 +1,20 @@
+<mvc:View controllerName="app.controller.Object" 
+	xmlns:m="sap.m" 
+	xmlns:core="sap.ui.core" 
+	xmlns:layout="sap.ui.layout"
+	xmlns:mvc="sap.ui.core.mvc"
+	xmlns:semantic="sap.m.semantic" 
+	xmlns:form="sap.ui.layout.form">
+	
+	<semantic:FullscreenPage id="page" navButtonPress="onNavBack" showNavButton="true" title="{i18n>objectTitle}">
+		<semantic:content>
+			
+		</semantic:content>
+		
+		<semantic:customFooterContent> 
+			
+		</semantic:customFooterContent>
+			
+	</semantic:FullscreenPage>
+	
+</mvc:View>
